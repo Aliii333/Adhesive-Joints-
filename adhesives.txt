@@ -1,0 +1,4 @@
+adName,adMod,pRatio,maxShearStress,AdhesiveShearModulus,AdhesiveYieldStrength
+AV119,3.05,0.35,49,1.1,71.3
+Redux326,4.44,0.35,36.5,1.2,38.6
+Hysol19321,3.87,0.35,25,1.461,45.97

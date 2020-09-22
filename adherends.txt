@@ -1,0 +1,5 @@
+adherendName,adherendMod,adYieldStress,ShearModulus,ThroughThinckness,InterlaminarShearStrength
+MildSteel,210.0,370.0,78.0,1.0,1.0
+HighStrengthSteel,75,300,24.0,1.0,1.0
+Aluminium,70.0,280.0,26.0,1.0,1.0
+CarbonFiber,181.0,2800.0,50.0,50.0,90.0
